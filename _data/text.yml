@@ -1,0 +1,49 @@
+header: Olivia
+
+subheader: Writer | Director | Cinematographer
+
+bio: Olivia Dal Pra is a filmmaker from Northeast Ohio. She studied film at Kent State University, during which she won multiple university honors and scholarships for projects she wrote, shot, and/or directed, such as "Cloud Nine", "Powerball" and "Bunkers". She also served as the managing director of the Female Filmmaker's Initiative, an organization dedicated to promoting diversity behind the camera. After graduation, she worked various positions before moving home to take care of her grandmother with Alzheimer's, the inspiration for her upcoming project "The Gap". When not filming, Olivia is writing poems, watching hockey, and chilling with her work buddy, Grandma.
+
+projects-tags:
+ - writing
+ - cinematography
+
+projects:
+  - title: Bunkers
+    role: Director - Writer
+    description: A neurotic homeschool grad tries to get his awful roommates kicked out. Director, Writer. Winner of Best Actor and Best Editing at the 2024 Flash Film Festival
+    video-link: https://player.vimeo.com/video/940097793?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
+    awards:
+      - /assets/images/awards/BEST_ACTOR_-_Flash_Films_Festival_-_2024.png
+      - /assets/images/awards/BEST_EDITING_-_Flash_Films_Festival_-_2024.png
+      - /assets/images/awards/OFFICIAL_SELECTION_-_PNN_Academy_Comedy_Film_Festival_-_2025.png
+
+  - title: Cloud Nine
+    role: Co-Director - Writer - Cinematographer
+    description: A girl falls into a parasocial relationship with a streamer. Co-Director, Writer, Cinematographer. Winner of Best Editing and Best Directing at the 2023 Flash Film Festival
+    video-link: https://player.vimeo.com/video/781219114?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
+    awards:
+      - /assets/images/awards/BEST_DIRECTING_-_Flash_Films_Festival_-_2023.png
+      - /assets/images/awards/BEST_EDITING_-_Flash_Films_Festival_-_2023.png
+
+  - title: Powerball
+    role: Co-Writer - Cinematographer - Re-Recording Mixer
+    description: A young man wins the lottery at Christmas dinner. Co-writer, Cinematographer, Re-Recording mixer.  Winner of Best Screenplay, Best Sound Design, and Audience Favorite at the 2023 Flash Film Festival. Official Selection for the Highland Square Film Festival and the Short. Sweet. Film Festival.
+    video-link: https://player.vimeo.com/video/822537020?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
+    awards:
+      - /assets/images/awards/BEST_SCREENPLAY_-_Flash_Films_Festival_-_2023.png
+      - /assets/images/awards/BEST_SOUND_DESIGN_-_Flash_Films_Festival_-_2023.png
+      - /assets/images/awards/OFFICIAL_SELECTION_-_Highland_Square_Film_Festival_-_2024.png
+      - /assets/images/awards/Official_Selection_2024.png
+
+  - title: Intertwined
+    role: Cinematographer
+    description: Two stranger's lives intersect in a way that neither of them expect.
+    video-link: https://player.vimeo.com/video/943373879?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
+
+  - title: Selfless Mind
+    role: Cinematographer
+    description: A young woman struggles to balance her extreme empathy and her own identity.
+    video-link: https://www.youtube.com/embed/LKbWSAMGpIo
+
+
